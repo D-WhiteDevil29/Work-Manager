@@ -1,5 +1,5 @@
 import React from 'react';
-import Login from './login';
+import Login from '@/app/login/Login';
 
 export const metadata = {
     title:"Login : Work Manager"

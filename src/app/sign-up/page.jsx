@@ -1,5 +1,5 @@
 import React from 'react'
-import SignUp from './SignUp'
+import SignUp from '@/app/sign-up/SignUp'
 
 export const metadata = {
     title: "Sign Up: Work Manager"

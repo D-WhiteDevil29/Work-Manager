@@ -1,6 +1,6 @@
 "use client";
 import React, { useContext, useEffect, useState } from 'react'
-import TaskComp from './TaskComp'
+import TaskComp from '@/app/show-tasks/TaskComp'
 import { deleteTaskById, getUserTasks } from '@/services/taskServices';
 import { toast } from 'react-toastify';
 import UserContext from '../context/userContext';
